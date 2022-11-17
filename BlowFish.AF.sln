@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlowFish.AF", "BlowFish.AF\BlowFish.AF.csproj", "{07342248-0F04-4867-91E9-3C314063EAC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlowFish.AF.Tests", "BlowFish.AF.Tests\BlowFish.AF.Tests.csproj", "{39907A0B-B3B2-42ED-B152-E8B0BE1F6730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07342248-0F04-4867-91E9-3C314063EAC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07342248-0F04-4867-91E9-3C314063EAC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07342248-0F04-4867-91E9-3C314063EAC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07342248-0F04-4867-91E9-3C314063EAC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39907A0B-B3B2-42ED-B152-E8B0BE1F6730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39907A0B-B3B2-42ED-B152-E8B0BE1F6730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39907A0B-B3B2-42ED-B152-E8B0BE1F6730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39907A0B-B3B2-42ED-B152-E8B0BE1F6730}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2471DAB1-184C-4B75-8C34-DF57F5A08ADE}
+	EndGlobalSection
+EndGlobal
